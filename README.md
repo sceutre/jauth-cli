@@ -6,7 +6,7 @@ a simple command-line application.
 
 ## Usage
 
-1. Create a .jauth file (format below)
+1. Create a .jauth file in your home directory (format below)
 2. Run `java -jar dist/jauth.jar`
 
 ## Format of ~/.jauth
